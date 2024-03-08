@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(0, 64, 255);
+}
+
+
+a {
+    background-color: white;
+}
+
+a:hover {
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+}
+
+h1:hover {
+    font-size: xx-large;
+    background-color: rgb(83, 203, 31);
+    color: white;
+    text-transform: lowercase;
+}
+
+p:hover {
+    font-size: xx-large;
+    background-color: rgb(83, 203, 31);
+    color: white;
+    text-transform: lowercase;
+}
+
+.first:hover {
+    font-size: xx-large;
+    background-color: rgb(83, 203, 31);
+    color: white;
+}
+
+#pcode:hover {
+    font-size: xx-large;
+    background-color: rgb(83, 203, 31);
+    color: rgb(0, 0, 0);
+}
+
+.bilder {
+    margin: 20px;
+    padding: 20px;
+
+}
+
+img {
+    opacity: 0.5;
+}
+
+img:hover {
+    opacity: 1;
+}
+
+*{
+    margin: 10px;
+}
